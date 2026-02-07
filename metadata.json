@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriBalance Elite AI",
+  "description": "A premium, AI-powered nutrition and fitness tracker that leverages Gemini for intelligent meal analysis and personalized health coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
